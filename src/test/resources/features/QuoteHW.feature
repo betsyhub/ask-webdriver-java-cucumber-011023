@@ -105,7 +105,7 @@ Feature: Quote test scenarios
 
   @quote7
   Scenario: Verify the non-required fields.
-    
+
 
 
   @quote8
